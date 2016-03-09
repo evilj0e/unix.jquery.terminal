@@ -10,11 +10,7 @@
     "input",
     "ui"
   ],
-  "author": {
-    "name": "Anton Konev",
-    "email": "info@antonkonev.com",
-    "url": "http://antonkonev.com"
-  },
+  "author": "Anton Konev <info@antonkonev.com> (http://antonkonev.com)",
   "version": "0.0.1",
   "description": "jQuery Terminal Emulator is a plugin for creating command line interpreters in your applications.",
   "repository": {
@@ -22,10 +18,7 @@
     "type": "git"
   },
   "maintainers": [
-    {
-      "name": "Anton Konev",
-      "email": "info@antonkonev.com"
-    }
+    "Anton Konev <info@antonkonev.com>"
   ],
   "dependencies": {
     "jquery": "^2.1.4",
@@ -34,5 +27,10 @@
   "scripts": {},
   "name": "unix.jquery.terminal",
   "license": "LGPL-3.0",
-  "readme": ""
+  "bugs": {
+    "url": "https://github.com/evilj0e/unix.jquery.terminal/issues"
+  },
+  "homepage": "https://github.com/evilj0e/unix.jquery.terminal",
+  "main": "index.js",
+  "devDependencies": {}
 }
